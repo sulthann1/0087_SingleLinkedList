@@ -14,4 +14,12 @@ class LinkedList
     Node *START;
     public : 
     LinkedList()
+    {
+        START = NULL;
+    }
+    void addNode()
+    {
+        int nim;
+        cout
+    }
 }
